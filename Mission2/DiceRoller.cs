@@ -66,13 +66,16 @@ namespace Mission2
             }
         }
 
+        //will print out the asterisks
         public void PrintResults(int rolls)
         {
             for (int i = 2; i < 13; i++)
             {
+                //calculates the percentage 
                 decimal per = (decimal) diceRolls[i] / (decimal) rolls * (decimal) 100;
 
                 Console.Write(Convert.ToString(i) + ": ");
+                //for loop through that percentage to print 
                 for(int j = 0; j < per; j++)
                 {
                     Console.Write("*");
