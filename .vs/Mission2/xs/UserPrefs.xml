@@ -1,23 +1,16 @@
 ﻿<Properties StartupConfiguration="{1832CEEE-5A39-42A9-BA50-CB2ECCC0FEA2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../CSharpFun/CSharpFun/PrintClass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission2/Program.cs">
     <Files>
-      <File FileName="Mission2/Program.cs" />
-      <File FileName="../CSharpFun/CSharpFun/PrintClass.cs" NotebookId="1" />
+      <File FileName="Mission2/Program.cs" Line="11" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission2" expanded="True">
             <Node name="Mission2" expanded="True">
-              <Node name="DiceRoller.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>diceRolls[i]</Value>
-          <Value>rolls</Value>
         </State>
       </Pad>
     </Pads>
@@ -26,8 +19,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/betasan/BYU/Winter 2023/IS 413/Mission2/Mission2/DiceRoller.cs" relfile="Mission2/DiceRoller.cs" line="71" column="1" />
-      <Breakpoint file="/Users/betasan/BYU/Winter 2023/IS 413/Mission2/Mission2/DiceRoller.cs" relfile="Mission2/DiceRoller.cs" line="80" column="1" />
+      <Breakpoint file="/Users/betasan/BYU/Winter 2023/IS 413/Mission2/Mission2/DiceRoller.cs" relfile="Mission2/DiceRoller.cs" line="72" column="1" />
+      <Breakpoint file="/Users/betasan/BYU/Winter 2023/IS 413/Mission2/Mission2/DiceRoller.cs" relfile="Mission2/DiceRoller.cs" line="83" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
