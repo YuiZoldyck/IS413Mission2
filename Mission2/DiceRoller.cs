@@ -24,8 +24,10 @@ namespace Mission2
             while (rolls > 0)
             {
                 Random r = new Random();
-                int dice = r.Next(2, 13);
-                switch(dice)
+                int dice1 = r.Next(1, 7);
+                int dice2 = r.Next(1, 7);
+                int dice = dice1 + dice2;
+                switch (dice)
                 {
                     case 2:
                         diceRolls[2]++;
